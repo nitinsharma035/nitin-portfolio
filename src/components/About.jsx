@@ -27,7 +27,7 @@ const About = () => {
             </p> 
             <div className="pt-4">
               <h4 className="text-white font-bold mb-3 flex items-center">
-                <span className="text-cyan-400 mr-2 font-mono">04.1</span> Education
+                 Education
               </h4>
               <ul className="space-y-2 text-sm font-mono">
                 <li><span className="text-cyan-400">▹</span> B.Tech, Institute of Engineering and Technology College Alwar Rajsthan 301001 (2018-2022)</li>
