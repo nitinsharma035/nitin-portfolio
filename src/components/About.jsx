@@ -49,7 +49,7 @@ const About = () => {
                   </div>
                   <div className="flex justify-between border-b border-slate-700/50 pb-2">
                     <span className="text-cyan-400 font-mono text-xs uppercase tracking-widest">Experience</span>
-                    <span className="text-slate-200 text-sm font-medium">4 Years</span>
+                    <span className="text-slate-200 text-sm font-medium">3+ Years</span>
                   </div>
                   <div className="flex justify-between border-b border-slate-700/50 pb-2">
                     <span className="text-cyan-400 font-mono text-xs uppercase tracking-widest">Specialization</span>
@@ -62,7 +62,7 @@ const About = () => {
                 </div> 
                 <div className="grid grid-cols-2 gap-4 mt-8">
                   <div className="bg-[#0a192f] p-4 rounded-lg text-center border border-slate-800 group-hover:border-cyan-400/30 transition-colors">
-                    <div className="text-2xl font-bold text-cyan-400">4+</div>
+                    <div className="text-2xl font-bold text-cyan-400">3+</div>
                     <div className="text-[9px] text-slate-400 uppercase tracking-widest mt-1">Years Working</div>
                   </div>
                   <div className="bg-[#0a192f] p-4 rounded-lg text-center border border-slate-800 group-hover:border-cyan-400/30 transition-colors">
