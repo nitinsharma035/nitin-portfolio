@@ -39,7 +39,7 @@ const About = () => {
             <div className="relative group"> 
               <div className="absolute -inset-4 border-2 border-cyan-400/20 rounded-xl -rotate-2 group-hover:rotate-0 transition-all duration-500"></div>
                
-              <div className="relative bg-[#112240] p-8 rounded-xl border border-slate-800 shadow-2xl">
+              <div className="relative bg-[#112240] p-4 rounded-xl border border-slate-800 shadow-2xl">
                 <h3 className="text-2xl font-bold text-white mb-6">Quick Overview</h3>
                 
                 <div className="space-y-4">

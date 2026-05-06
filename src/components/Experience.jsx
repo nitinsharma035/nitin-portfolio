@@ -55,7 +55,7 @@ const Experience = () => {
               <div className="flex items-center justify-center w-10 h-10 rounded-full border border-slate-700 bg-[#0a192f] text-cyan-400 shadow shrink-0 md:order-1 md:group-odd:-translate-x-1/2 md:group-even:translate-x-1/2 absolute left-0 md:left-1/2 -translate-x-1/2 transition-colors group-hover:border-cyan-400">
                 <div className="w-2 h-2 bg-cyan-400 rounded-full animate-pulse"></div>
               </div> 
-              <div className="w-[calc(100%-4rem)] md:w-[45%] bg-[#112240] p-6 rounded-xl border border-slate-800 hover:border-cyan-400/30 transition-all shadow-xl hover:shadow-cyan-900/10">
+              <div className="w-[calc(100%-1rem)] md:w-[45%] bg-[#112240] p-6 rounded-xl border border-slate-800 hover:border-cyan-400/30 transition-all shadow-xl hover:shadow-cyan-900/10">
                 <div className="flex flex-col mb-4">
                   <h3 className="text-xl font-bold text-white group-hover:text-cyan-400 transition-colors">
                     {exp.company}
