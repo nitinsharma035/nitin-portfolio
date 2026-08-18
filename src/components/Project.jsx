@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 const Projects = () => { 
     const allProjects = [
+        { title: "Front Foot Journeys", image: "/assets/front-foot.png", link: "https://frontfootjourneys.com/" },
         { title: "Being Ingenious media private limited", image: "/assets/bi.png", link: "https://beingingenious.in/" },
         { title: "Dhuali", image: "/assets/dhulai.png", link: "https://dhulai.in/" },
         { title: "Aditi Beauty School and Salon ", image: "/assets/aditi.png", link: "https://aditibeautyschool.in/" },
