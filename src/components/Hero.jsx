@@ -18,7 +18,7 @@ const Hero = () => {
           
           <div className="pt-6 flex gap-4"> 
             <button className="px-8 py-4 bg-cyan-500 text-[#0a192f] font-bold rounded shadow-lg shadow-cyan-500/20 hover:-translate-y-1 transition-all">
-              <a href="/assets/Resume.pdf" download className="flex items-center">
+              <a href="/assets/Nitin_Sharma_Resume.docx" download className="flex items-center">
                 Download CV
               </a>
             </button> 
