@@ -13,7 +13,7 @@ const Hero = () => {
             Nitin <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Sharma</span>
           </h1>
           <p className="max-w-xl text-lg text-slate-400 leading-relaxed border-l-4 border-cyan-500 pl-6 py-2">
-            Innovative Front-End Web Developer with 3+ years of experience in building responsive, user-friendly applications. I specialize in React.js and modern animations to craft immersive, high-performance web experiences.
+            Innovative Front-End Web Developer with 4+ years of experience in building responsive, user-friendly applications. I specialize in React.js and modern animations to craft immersive, high-performance web experiences.
           </p>
           
           <div className="pt-6 flex gap-4"> 
