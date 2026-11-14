@@ -8,6 +8,7 @@ const Skills = () => {
     { name: "HTML5", img: "/assets/html.png" },
     { name: "CSS3",  img: "/assets/css-3.png" },
     { name: "Python",  img: "/assets/python.webp" },
+    { name: "Php", img: "/assets/php.png" },
     { name: "GitHub", img: "/assets/github.png" },
     { name: "Bootstrap",  img: "/assets/bootstrap.png" },
     { name: "Framer Motion", img: "/assets/framer-motion.png" },
