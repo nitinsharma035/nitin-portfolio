@@ -7,7 +7,7 @@ const Skills = () => {
     { name: "Tailwind CSS", img: "/assets/tailwind.png" }, 
     { name: "HTML5", img: "/assets/html.png" },
     { name: "CSS3",  img: "/assets/css-3.png" },
-    { name: "Python",  img: "/assets/python.png" },
+    { name: "Python",  img: "/assets/python.webp" },
     { name: "GitHub", img: "/assets/github.png" },
     { name: "Bootstrap",  img: "/assets/bootstrap.png" },
     { name: "Framer Motion", img: "/assets/framer-motion.png" },
