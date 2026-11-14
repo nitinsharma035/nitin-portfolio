@@ -4,7 +4,7 @@ const Experience = () => {
   const experiences = [
     {
       company: "BEING INGENIOUS MEDIA PRIVATE LIMITED",
-      role: "Sr. Executive, Website Front End Developer",
+      role: "Sr. Front End Developer",
       duration: "Aug. 2025 - Present",
       description: [
         "Leading front-end initiatives and managing website projects to deliver scalable digital solutions aligned with business objectives.",
@@ -16,7 +16,7 @@ const Experience = () => {
     {
       company: "WI THINKERS Pvt. Ltd.",
       role: "Front End Web Developer",
-      duration: "Dec. 2023 - April 2025",
+      duration: "july 2023 - july 2025",
       description: [
         "Designed and implemented an extensible, reusable component architecture, reducing development effort and accelerating feature delivery by 50%.",
         "Optimized application performance, achieving a 30% reduction in load times through code-splitting and lazy-loading techniques.",
